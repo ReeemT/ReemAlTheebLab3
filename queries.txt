@@ -1,1 +1,25 @@
+54 ?- father(naif, reem).
+true.
+
+55 ?- father(abdulaziz, mohammed).
+true.
+
+56 ?- mother(latifah, sarah).
+true.
+
+57 ?- mother(latifah, fatimah).
+false.
+
+58 ?- sister(reem, norah).
+true .
+
+59 ?- sister(fatimah, omar).
+true.
+
+60 ?- brother(khalid, reem).
+true .
+
+61 ?- brother(omar, reem).
+false.
+
 
